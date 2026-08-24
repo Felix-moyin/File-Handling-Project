@@ -13,3 +13,24 @@ report.pdf
 """
 
 # Reading Files (The Manual Way)
+# Open (filename/filepath, mode)
+# if the file is not in your current working directory: open(filename, mode)
+
+
+# The open() function takes two main arguments:
+# filename: The name(or path) of the file you want to open.
+# mode: What 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
