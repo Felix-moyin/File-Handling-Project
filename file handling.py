@@ -52,10 +52,14 @@ report.pdf
 # file.write("suits")
 # file.close
 
-file = open("all_files/Movielist1.txt", "w")
-file.write("suits,\n Tie,\n Shoes")
-file.close
+# file = open("all_files/Movielist1.txt", "w")
+# file.write("suits,\n Tie,\n Shoes")
+# file.close
 
+
+file = open("all_files/Movielist2.txt", "w")
+file.write("Older,\n Contest,\n Men in Black, \nSacred ")
+file.close
 
 
 # file = open("File ")

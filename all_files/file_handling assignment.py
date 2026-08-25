@@ -6,7 +6,6 @@
 
 #     for i in range(students):
 #         print("\nStudent", i + 1)
-
 #         name = input("Full name: ")
 #         age = input("Age: ")
 #         department = input("Department: ")
